@@ -32,7 +32,7 @@ createcard("22/11", "terça", creategame("argentina", "06:00", "saudi-arabia") +
  creategame("denmark", "09:00", "tunisia") + creategame("mexico", "12:00", "poland") + creategame("france", "12:00", "australia")) +
 
 createcard("23/11", "quarta", creategame("morocco", "06:00", "croatia") +
- creategame("germany", "09:00", "japan") + creategame("spain", "12:00", "wales") + creategame("belgium", "12:00", "canada")) +
+ creategame("germany", "09:00", "japan") + creategame("spain", "12:00", "costa-rica") + creategame("belgium", "12:00", "canada")) +
 
 createcard("24/11", "quinta", creategame("switzerland", "06:00", "camaroon") +
  creategame("uruguay", "09:00", "south-korea") + creategame("portugal", "12:00", "ghana") + creategame("brazil", "12:00", "serbia")) +
@@ -41,7 +41,7 @@ createcard("25/11", "sexta", creategame("wales", "06:00", "iran") +
  creategame("qatar", "09:00", "senegel") + creategame("netherlands", "12:00", "ecuador") + creategame("england", "12:00", "united-states")) +
 
 createcard("26/11", "sabado", creategame("tunisia", "06:00", "australia") +
- creategame("poland", "09:00", "saudi-arabia") + creategame("netherlands", "12:00", "ecuador") + creategame("england", "12:00", "united-states")) +
+ creategame("poland", "09:00", "saudi-arabia") + creategame("france", "12:00", "denmark") + creategame("argentina", "12:00", "mexico")) +
 
 createcard("27/11", "domingo", creategame("japan", "06:00", "costa-rica") +
  creategame("belgium", "09:00", "morocco") + creategame("croatia", "12:00", "canada") + creategame("spain", "12:00", "germany")) +
